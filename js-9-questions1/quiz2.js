@@ -6,6 +6,8 @@
 
 //!   Answer:
 let time=10;
+console.log("wait 5 sec");
+
 setTimeout(()=>{
     console.log("ready?");
     let times= setInterval(()=>{
